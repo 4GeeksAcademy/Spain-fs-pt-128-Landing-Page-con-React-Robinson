@@ -25,6 +25,8 @@ dist-ssr
 
 # ignore all files starting with .
 .*
+# but track project dotfiles we explicitly allow
+!.nvmrc
 
 # track this file .gitignore (i.e. do NOT ignore it)
 !.gitignore
