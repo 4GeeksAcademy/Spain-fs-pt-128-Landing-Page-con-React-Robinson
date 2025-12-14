@@ -9,3 +9,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    background-image: url("https://previews.123rf.com/images/wstockstudio/wstockstudio1702/wstockstudio170200260/72042079-accessories-for-travel-top-view-on-white-natural-marble-background-with-copy-space-adventure-and.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
